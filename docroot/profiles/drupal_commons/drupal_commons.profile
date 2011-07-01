@@ -1,6 +1,6 @@
 <?php
 
-// Define the forced ID of the free-tagging vocabulary
+// Define the forced ID of the free-tagging vocabulary - test
 define('DRUPAL_COMMONS_TAG_ID', 2);
 
 // Define the default WYSIWYG editor
